@@ -6,6 +6,8 @@ Este algoritmo desarrollado con JavaScript filtra y lista URLs de un archivo de 
 
 - Node.js instalado en tu máquina. Puedes descargarlo desde [nodejs.org](https://nodejs.org/). Nota: Para este desarrollo se ha utilizado Node v22.3.0.
 
+Nota: Windows 11 como sistema operativo (SO).
+
 ## Cómo Probar el Algoritmo
 
 1. **Clona o descarga el repositorio:**
