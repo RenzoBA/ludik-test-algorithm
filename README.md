@@ -1,6 +1,6 @@
 # Resolución de un Problema Algorítmico
 
-Este algoritmo desarrollado con JavaScript filtra y lista URLs de un archivo de texto que se pasa como argumento al momento de ejecutar el script. El algoritmo encuentra URLs únicas que pertenecen a dominios que contienen la palabra "shop" y que terminan en la extensión ".html".
+Este algoritmo desarrollado con JavaScript filtra y lista URLs de un archivo de texto .txt que se pasa como argumento al momento de ejecutar el script. El algoritmo encuentra URLs únicas que pertenecen a dominios que contienen la palabra "shop" y que terminan en la extensión ".html".
 
 ## Requisitos
 
